@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Profissional+em+Formação;Entusiasta+por+Tecnologia;Comprometido+com+o+Aprendizado" alt="Typing SVG" />
-  </p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/guilherme-gama-455317379/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
