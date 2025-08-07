@@ -1,8 +1,9 @@
-<h1 align="center">👋 Seja bem-vindo(a)!</h1>
+<h2 align="center">👋 Seja bem-vindo(a)!</h1>
 
 <p align="center">
   <strong>Meu nome é Guilherme de Melo Gama</strong>
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilherme-gama-455317379/" target="_blank">
@@ -62,6 +63,24 @@ Sou estudante apaixonado por tecnologia. Estou em constante aprendizado, buscand
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+## 📈 Minhas Estatísticas no GitHub
+
+<table align="center">
+  <tr>
+    <td>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=guilhermegama159&show_icons=true&theme=radical" alt="Stats do GitHub"/>
+    </td>
+    <td>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegama159&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+    </td>
+  </tr>
+</table>
+
+
+
 
 ---
 <div align="center">
