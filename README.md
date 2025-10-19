@@ -9,7 +9,8 @@
   <a href="https://www.linkedin.com/in/guilherme-gama-455317379/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:guilhermegama978@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=guilhermegama978@gmail.com&su=Assunto%20aqui&body=Texto%20da%20mensagem
+" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
   </a>
 </p>
