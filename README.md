@@ -1,93 +1,105 @@
-<h2 align="center">👋 Seja bem-vindo(a)!</h1>
 
-<p align="center">
-  <strong>Meu nome é Guilherme de Melo Gama</strong>
-</p>
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/guilherme-gama-455317379/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=guilhermegama978@gmail.com&su=Assunto%20aqui&body=Texto%20da%20mensagem
-" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
-  </a>
-</p>
-
----
-
-## 🚀 Sobre mim
-
-Sou estudante apaixonado por tecnologia. Estou em constante aprendizado, buscando me especializar em ferramentas modernas e linguagens de programação que me permitam evoluir cada dia mais.
-
----
-## 🎓 Formação
-
-<p align="left">
-  <img src="https://logodownload.org/wp-content/uploads/2014/10/senac-logo-1-1.png" width="120px" alt="Senac Logo">
-  <br>
-  <strong>Análise e Desenvolvimento de Sistemas</strong>
-  <br>
-  SENAC - Em andamento
-</p>
-
----
-
-## 🧠 Tecnologias que estou aprendendo
-
-### 🖍️ Linguagens de Marcação e Estilo
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 💻 Linguagens de Programação
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### 🛢️ Banco de Dados
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ☁️ Serviços de Computação em Nuvem
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-
-### 🖥️ Sistemas Operacionais
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### 🛠️ Ferramentas e Frameworks
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
----
-
-## 📈 Minhas Estatísticas no GitHub
-
-<table align="center">
-  <tr>
-    <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=guilhermegama159&show_icons=true&theme=radical" alt="Stats do GitHub"/>
-    </td>
-    <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegama159&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
-    </td>
-  </tr>
-</table>
-
-
-
-
----
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=80&lines=Ol%C3%A1%2C+sou+Guilherme+Gama.;Turning+ideas+into+code.;Code.+Debug.+Understand.+Repeat." alt="Olá, sou Guilherme Gama. Turning ideas into code. Code. Debug. Understand. Repeat.">
+
+</div>
+
+---
+
+## `whoami`
+
+```python
+class GuilhermeGama:
+    def __init__(self):
+        self.curso = "Análise e Desenvolvimento de Sistemas"
+        self.instituicao = "SENAC"
+        self.status = "Em constante aprendizado"
+        self.interesses = [
+            "Desenvolvimento de software",
+            "Programação",
+            "Tecnologia"
+        ]
+
+    def objetivo(self):
+        return "Aprender, construir e evoluir."
+```
+
+Sou estudante de Análise e Desenvolvimento de Sistemas no SENAC, apaixonado por tecnologia e desenvolvimento de software.
+
+Atualmente, estou ampliando meus conhecimentos em programação, desenvolvimento web, bancos de dados e ferramentas utilizadas no desenvolvimento de aplicações.
+
+Acredito que a melhor forma de aprender é colocando a mão na massa: estudando conceitos, desenvolvendo projetos e aprendendo com os desafios de cada implementação.
+
+## `tech_stack`
+
+Tecnologias e ferramentas com as quais estou aprendendo e trabalhando.
+
+**Linguagens de marcação e estilo**
+
 <p>
-  💡 <em>“A cada linha de código, um passo rumo ao futuro.”</em><br>
-  Estou em constante evolução e aberto a novas oportunidades de aprendizado e colaboração!</p>
+  <img src="https://skillicons.dev/icons?i=html,css" alt="HTML e CSS">
+</p>
+
+**Linguagens de programação**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,java,python" alt="JavaScript, Java e Python">
+</p>
+
+**Banco de dados**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
+</p>
+
+**Cloud computing**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp" alt="Microsoft Azure, AWS e Google Cloud">
+</p>
+
+**Ferramentas e ambiente**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,nodejs,windows,vscode" alt="Git, Node.js, Windows e Visual Studio Code">
+</p>
+
+## `education`
+
+**Análise e Desenvolvimento de Sistemas**
+
+SENAC São Paulo · Em andamento
+
+## `github_stats`
+
+<div align="center">
+
+<a href="https://github.com/guilhermegama159">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guilhermegama159&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub">
+</a>
+
+<a href="https://github.com/guilhermegama159">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegama159&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+learn() → build() → improve() → repeat()
+```
+
+*Construindo conhecimento, um projeto de cada vez.*
+
+<a href="https://www.linkedin.com/in/guilherme-gama-455317379/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:guilhermegama978@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a>
+
 </div>
